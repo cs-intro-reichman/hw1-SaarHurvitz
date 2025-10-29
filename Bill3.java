@@ -8,7 +8,7 @@ public class Bill3 {
 	    bill = (int) Math.ceil((double)bill/3); 
 	    //output
 	    System.out.println(args[2] + ", " + args[1] + ", and " + args[0] + 
-		                   " need to pay " + bill + " Shekels each.");
+		                   ": pay " + (double)bill + " Shekels each.");
 						   //BTW Iknow how to make a scanner but the assignment said to use args
 
 	}

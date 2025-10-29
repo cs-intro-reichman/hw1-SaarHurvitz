@@ -9,8 +9,8 @@ public class FVCalc {
 		// Compund interest formula into double variable
 		double fv = money * Math.pow((1 + interest/100), years);
 		//output
-		System.out.println("after " + years + " years " + "$" + money + " saved at " 
-		                   + interest + " %is worth: $" + (int)fv);
+		System.out.println("After " + years + " years " + "$" + money + " saved at " 
+		                   + interest + " % will yield $" + (int)fv);
 		
 	}
 }
