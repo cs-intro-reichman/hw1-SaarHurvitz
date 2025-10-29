@@ -28,7 +28,7 @@
             "request": "launch",
             "mainClass": "Bill3",
             "projectName": "hw1-SaarHurvitz_d4691d03",
-            "args": "Saar Ron Dani 100"
+            "args": "Ron Lisa Dan 100"
         },
         {
             "type": "java",
@@ -44,7 +44,7 @@
             "request": "launch",
             "mainClass": "NumWords",
             "projectName": "hw1-SaarHurvitz_d4691d03",
-            "args": "446"
+            "args": "110"
         },
         {
             "type": "java",

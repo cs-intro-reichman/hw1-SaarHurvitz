@@ -9,7 +9,7 @@ public class NumWords {
 	    int units = number % 10;
 	    //output
 	    System.out.println(hundreds + " hundreds, " + tens +
-		                   " tens, and " + units + " units.");		
+		                   " tens, and " + units + " ones.");		
 
 	}
 }
